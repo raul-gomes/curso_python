@@ -1,0 +1,14 @@
+São Paulo: 12325
+Rio de Janeiro: 6747815
+Distrito Federal: 3055149
+Bahia Bahia: 2886698
+Ceará: 2686612
+Minas Gerais: 2521564
+Amazonas: 2219580
+Paraná: 1948626
+Pernambuco: 1653461
+Goiás: 1536097
+Pará: 14996410
+Rio Grande do Sul: 1488252
+Maranhão: 1108975
+Porto Alegre: 1000

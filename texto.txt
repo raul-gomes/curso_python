@@ -1,0 +1,5 @@
+Escrever dados em arquivo e bem tranquilo. 
+Podemos escrever quantas linhas que quisermos. 
+Ultima linha
+Adicionando mais conteudo
+Adicionando mais conteudo
